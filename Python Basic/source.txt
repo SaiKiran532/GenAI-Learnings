@@ -1,0 +1,4 @@
+Hello 
+this is 
+text file
+Hello I came here using append mode
