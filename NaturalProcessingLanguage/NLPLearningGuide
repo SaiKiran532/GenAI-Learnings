@@ -1,0 +1,9 @@
+Natural Language Processing (NLP)
+
+└── ├── Tokenization Practicals
+    ├── Stemming and Its Types
+    ├── Lemmatization
+    ├── Stopwords
+    ├── Parts of Speech (POS) Tagging
+    ├── Named Entity Recognition (NER)
+    ├── VectorTechniques
